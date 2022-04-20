@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "android",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "android": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "android",
+    "origin"
+  ]
+}
